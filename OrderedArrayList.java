@@ -33,6 +33,10 @@ public class OrderedArrayList {
     return size();
   }
 
+  public int get(int index) {
+      return _data.get(index);
+  }
+
   public String toString(){
     String result = "[";
     for(int i = 0 ; i < _data.size() ; i += 1){
