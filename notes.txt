@@ -1,0 +1,9 @@
+12/10/21:
+  - Added ALTester.java, made to specifications
+  - Added OrderedArrayList.java skeleton
+  - Implemented calcIndex method
+12/12/21
+  - Implemented add method
+  - Implemented remove method
+  - Implemented size method
+  - Added OrderedArrayList functionality in ALTester.java
