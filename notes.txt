@@ -7,3 +7,8 @@
   - Implemented remove method
   - Implemented size method
   - Added OrderedArrayList functionality in ALTester.java
+12/13/21
+  - Clean up print statements in ALTester.java
+  - Use .compareTo() for isSorted(ArrayList)
+  - Add isSorted(OrderedArrayList)
+  - Add .get(int) to OrderedArrayList.java
